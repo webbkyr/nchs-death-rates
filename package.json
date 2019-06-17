@@ -1,0 +1,19 @@
+{
+  "name": "nchs-death-rates",
+  "version": "1.0.0",
+  "description": "API for leading causes of  death data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webbkyr/nchs-death-rates.git"
+  },
+  "author": "Kayla R. Webb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webbkyr/nchs-death-rates/issues"
+  },
+  "homepage": "https://github.com/webbkyr/nchs-death-rates#readme"
+}
